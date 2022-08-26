@@ -1,3 +1,3 @@
 # **fishcount**
 ## plantcount
-fish.png
+fishcount/fish.png
