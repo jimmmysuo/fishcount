@@ -1,3 +1,3 @@
 # **fishcount**
 ## plantcount
-![fish](fishcount/fish.png)
+![fish](fish.png)
