@@ -1,2 +1,3 @@
-# fishcount
+# **fishcount**
 ## plantcount
+/assets/images/fish.png
